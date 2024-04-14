@@ -1,0 +1,6 @@
+<Project>
+  <!--TODO: Replace it becasuse of not maintained.-->
+  <ItemGroup>
+    <PackageReference Include="SolidEdge.Community.AddIn" Version="219.0.0" />
+  </ItemGroup>
+</Project>

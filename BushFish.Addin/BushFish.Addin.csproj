@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <Import Project="..\Directory.SePackages.props" />
+  <Import Project="..\BushFish.Shared\BushFish.Shared.projitems" Label="Shared" />
+
+</Project>
